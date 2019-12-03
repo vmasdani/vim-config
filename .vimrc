@@ -5,6 +5,8 @@ set smartcase
 set autoindent
 set number
 
+filetype plugin indent on
+
 set whichwrap+=<,>,h,l,[,]
 
 map <C-n> :NERDTreeTabsToggle<cr>

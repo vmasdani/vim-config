@@ -23,6 +23,7 @@ git clone https://github.com/jistr/vim-nerdtree-tabs.git &&\
 git clone https://github.com/leafgarland/typescript-vim.git ~/.vim/bundle/typescript-vim &&\
 git clone https://github.com/isRuslan/vim-es6.git &&\
 git clone https://github.com/andys8/vim-elm-syntax &&\
+git clone https://github.com/preservim/nerdcommenter.git &&\
 cd ~ &&\
 git clone https://github.com/vim-scripts/AutoComplPop.git &&\
 cp -r AutoComplPop/* ~/.vim/ &&\

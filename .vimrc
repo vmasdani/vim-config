@@ -4,6 +4,7 @@ set expandtab
 set smartcase
 set autoindent
 set number
+set mouse=a
 
 filetype plugin indent on
 

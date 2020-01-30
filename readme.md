@@ -16,8 +16,8 @@ mkdir -p ~/.vim/autoload ~/.vim/bundle && \
 curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.Vim &&\
 cd ~/.vim/bundle &&\
 git clone https://github.com/chriskempson/base16-vim.git &&\
-git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/NerdTree
-git clone https://github.com/jistr/vim-nerdtree-tabs.git
+git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/NerdTree &&\
+git clone https://github.com/jistr/vim-nerdtree-tabs.git &&\
 git clone https://github.com/leafgarland/typescript-vim.git ~/.vim/bundle/typescript-vim &&\
 git clone https://github.com/isRuslan/vim-es6.git &&\
 cd ~ &&\

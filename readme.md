@@ -20,8 +20,10 @@ git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/NerdTree &&\
 git clone https://github.com/jistr/vim-nerdtree-tabs.git &&\
 git clone https://github.com/leafgarland/typescript-vim.git ~/.vim/bundle/typescript-vim &&\
 git clone https://github.com/isRuslan/vim-es6.git &&\
+git clone https://github.com/andys8/vim-elm-syntax &&\
 cd ~ &&\
 git clone https://github.com/vim-scripts/AutoComplPop.git &&\
 cp -r AutoComplPop/* ~/.vim/ &&\
-
+git clone https://github.com/vmasdani/vim-config.git &&\
+cp vim-config/.vimrc vim-config/.gvimrc ~
 ```
